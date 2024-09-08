@@ -1,0 +1,15 @@
+/* For Taken In The text right
+    margin:0 15px 15px 15px auto;
+*/
+
+
+/* For Line Through Can Do <del> */
+/* 
+    text-decoration: line-through;
+*/
+
+/* Inline Flex Without Using A div And flex propriety */
+.el {
+    display: inline-flex;
+    width: calc(100% - 80px);
+}
